@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/key-20-degrees/static/css/main.f855e6bc.css",
+    "main.js": "/key-20-degrees/static/js/main.c59304e9.js",
+    "static/js/453.bc5777d9.chunk.js": "/key-20-degrees/static/js/453.bc5777d9.chunk.js",
+    "static/media/logo.svg": "/key-20-degrees/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/key-20-degrees/index.html",
+    "main.f855e6bc.css.map": "/key-20-degrees/static/css/main.f855e6bc.css.map",
+    "main.c59304e9.js.map": "/key-20-degrees/static/js/main.c59304e9.js.map",
+    "453.bc5777d9.chunk.js.map": "/key-20-degrees/static/js/453.bc5777d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c59304e9.js"
+  ]
+}
