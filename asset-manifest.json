@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/key-20-degrees/static/css/main.f855e6bc.css",
-    "main.js": "/key-20-degrees/static/js/main.c59304e9.js",
+    "main.css": "/key-20-degrees/static/css/main.2b9b0b56.css",
+    "main.js": "/key-20-degrees/static/js/main.2cc3ba4c.js",
     "static/js/453.bc5777d9.chunk.js": "/key-20-degrees/static/js/453.bc5777d9.chunk.js",
-    "static/media/logo.svg": "/key-20-degrees/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Key-20---Carousel-pic-2.jpg": "/key-20-degrees/static/media/Key-20---Carousel-pic-2.a284e836bd666a2260e2.jpg",
+    "static/media/Key-20---Carousel-pic-1.jpg": "/key-20-degrees/static/media/Key-20---Carousel-pic-1.0fec6f73aa641636ccba.jpg",
+    "static/media/Key-20---Carousel-pic-3.jpg": "/key-20-degrees/static/media/Key-20---Carousel-pic-3.d9cb132e1e5f478d8aea.jpg",
     "index.html": "/key-20-degrees/index.html",
-    "main.f855e6bc.css.map": "/key-20-degrees/static/css/main.f855e6bc.css.map",
-    "main.c59304e9.js.map": "/key-20-degrees/static/js/main.c59304e9.js.map",
+    "main.2b9b0b56.css.map": "/key-20-degrees/static/css/main.2b9b0b56.css.map",
+    "main.2cc3ba4c.js.map": "/key-20-degrees/static/js/main.2cc3ba4c.js.map",
     "453.bc5777d9.chunk.js.map": "/key-20-degrees/static/js/453.bc5777d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c59304e9.js"
+    "static/css/main.2b9b0b56.css",
+    "static/js/main.2cc3ba4c.js"
   ]
 }
